@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-seed
+dist-test
+.env
+reports-output/*
+!reports-output/.gitkeep
+
